@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1010code/cupoy-roboflow-workshop/blob/main/1.image_classification)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1010code/cupoy-roboflow-workshop/blob/main/1.image_classification.ipynb)
