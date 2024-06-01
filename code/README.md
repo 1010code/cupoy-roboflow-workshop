@@ -26,5 +26,12 @@ ab246 account:
 
 How to train Yolov7 model with your custom dataset 
 
+
+## Web Demo
+- [YOLOv7](https://huggingface.co/spaces/HieuP/Yolov7_demo)
+- [YOLOv8](https://huggingface.co/spaces/fcakyon/yolov8-segmentation)
+- [YOLOv9](https://huggingface.co/spaces/kadirnar/Yolov9)
+- [YOLOv10](https://huggingface.co/spaces/kadirnar/Yolov10)
+
 ## Reference
 - [roboflow notebooks](https://github.com/roboflow/notebooks)
