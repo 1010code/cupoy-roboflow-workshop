@@ -12,6 +12,7 @@
 | YOLOv9_demo.ipynb| [Code](https://colab.research.google.com/github/1010code/cupoy-roboflow-workshop/blob/main/code/YOLOv9_demo.ipynb)  | 使用YOLOv9預訓練進行預測  |
 |YOLOv9_train_custom_dataset.ipynb|[Code](https://colab.research.google.com/github/1010code/cupoy-roboflow-workshop/blob/main/code/YOLOv9_train_custom_dataset.ipynb)|使用YOLOv9訓練自己的資料集|
 | YOLOv10_demo.ipynb| [Code](https://colab.research.google.com/github/1010code/cupoy-roboflow-workshop/blob/main/code/YOLOv10_demo.ipynb)  | 使用YOLOv10預訓練進行預測  |
+|YOLOv10_train_custom_dataset.ipynb|[Code](https://colab.research.google.com/github/1010code/cupoy-roboflow-workshop/blob/main/code/YOLOv10_train_custom_dataset.ipynb)|使用YOLOv10訓練自己的資料集|
 ||||
 ||||
 
