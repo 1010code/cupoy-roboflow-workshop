@@ -3,6 +3,7 @@
 |--------|---------------|---|
 | YOLOv4_demo.ipynb| [Code](https://colab.research.google.com/github/1010code/cupoy-roboflow-workshop/blob/main/code/YOLOv4_demo.ipynb)  | 使用YOLOv4預訓練進行預測  |
 |YOLOv4_train_custom_dataset.ipynb|[Code](https://colab.research.google.com/github/1010code/cupoy-roboflow-workshop/blob/main/code/YOLOv4_train_custom_dataset.ipynb)|使用YOLOv4訓練自己的資料集|
+| YOLOv4_tiny_demo.ipynb| [Code](https://colab.research.google.com/github/1010code/cupoy-roboflow-workshop/blob/main/code/YOLOv4_tiny_demo.ipynb)  | 使用YOLOv4 tiny預訓練進行預測  |
 |YOLOv4_tiny_train_custom_dataset.ipynb|[Code](https://colab.research.google.com/github/1010code/cupoy-roboflow-workshop/blob/main/code/YOLOv4_tiny_train_custom_dataset.ipynb)|使用YOLOv4 tiny訓練自己的資料集|
 |YOLOv7_demo.ipynb|[Code](https://colab.research.google.com/github/1010code/cupoy-roboflow-workshop/blob/main/code/YOLOv7_demo.ipynb)|使用YOLOv7預訓練進行預測|
 |YOLOv7_train_custom_dataset.ipynb|[Code](https://colab.research.google.com/github/1010code/cupoy-roboflow-workshop/blob/main/code/YOLOv7_train_custom_dataset.ipynb)|使用YOLOv7訓練自己的資料集|
